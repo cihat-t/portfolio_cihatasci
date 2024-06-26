@@ -1,11 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "portfolio_cihatasci",
   "version": "1.0.0",
   "description": "My Website",
+=======
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My GitHub project description",
+>>>>>>> 26c168b69f72cc5de0146dbd932df62839edfca2
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "author": "",
   "license": "ISC"
+=======
+  "author": "Cihat",
+  "license": "MIT"
+>>>>>>> 26c168b69f72cc5de0146dbd932df62839edfca2
 }
