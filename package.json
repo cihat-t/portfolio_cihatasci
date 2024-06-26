@@ -9,3 +9,6 @@
   "author": "",
   "license": "ISC"
 }
+"scripts": {
+    "build": "your build command here"
+}
